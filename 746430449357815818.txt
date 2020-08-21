@@ -1,0 +1,5 @@
+client.event
+async def on_message(message):
+    # do some extra stuff here
+
+    await client.process_commands(message)
