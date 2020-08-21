@@ -1,0 +1,32 @@
+ip: "45.18.189.186"
+hostname: "45-18-189-186.lightspeed.tukrga.sbcglobal.net"
+city: "Woodstock"
+region: "Georgia"
+country: "US"
+loc: "34.1015,-84.5194"
+postal: "30188"
+timezone: "America/New_York"
+asn: Object
+asn: "AS7018"
+name: "AT&T Services, Inc."
+domain: "att.com"
+route: "45.16.0.0/12"
+type: "isp"
+company: Object
+name: "AT&T Corp."
+domain: "att.com"
+type: "isp"
+privacy: Object
+vpn: false
+proxy: false
+tor: false
+hosting: false
+abuse: Object
+address: "US, TX, Plano, 2701 W 15th ST, 75075"
+country: "US"
+email: "abuse@att.net"
+name: "abuse"
+network: "45.16.0.0/12"
+phone: "+1-919-319-8167"
+domains: Object
+total: 0
